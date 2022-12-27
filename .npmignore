@@ -9,6 +9,11 @@ node_modules/
 .DS_Store
 CONTRIBUTE.md
 
+# backstage
+docs/
+catalog-info.yaml
+mkdocs.yaml
+
 # source
 **/*.ts
 *.ts
