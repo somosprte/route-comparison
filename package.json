@@ -1,6 +1,6 @@
 {
   "name": "@somosprte/route-comparison",
-  "version": "0.0.3-ALPHA",
+  "version": "0.0.4-ALPHA",
   "license": "MIT",
   "publisher": "somosprte",
   "publishConfig": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/somosprte/prte-route-comparison.git"
+    "url": "git+https://github.com/somosprte/route-comparison.git"
   },
   "author": {
     "name": "Vinícius Gutierrez da Silva Rocha",
