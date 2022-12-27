@@ -27,6 +27,7 @@ mkdocs.yaml
 renovate.json
 gulpfile.js
 tsconfig.json
+config
 tools
 /test/jest-config.json
 /.vscode
