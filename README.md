@@ -38,10 +38,6 @@ requests:
         "email: "viniciusgutierrez@prte.com.br",
         "password": "12345678"
       }
-    ignore: |
-      {
-        "data.attributes.avatar"
-      }
 ```
 
 ## Usage
