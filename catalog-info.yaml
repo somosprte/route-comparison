@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: lm-router-compairson
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: somosprte/lm-router-compairson
+spec:
+  type: other
+  lifecycle: unknown
+  owner: prte

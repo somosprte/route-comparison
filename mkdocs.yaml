@@ -1,0 +1,7 @@
+site_name: 'Route Comparison'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core

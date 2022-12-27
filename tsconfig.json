@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+
+    "moduleResolution": "node",
+
+    "lib": [
+      "es2017"
+    ],
+
+    "outDir": "bin",
+
+    "types": [
+      "node",
+    ],
+
+    "strict": true,
+    "sourceMap": false,
+    "declaration": false,
+    "skipLibCheck": true,
+    "useUnknownInCatchVariables": false,
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
